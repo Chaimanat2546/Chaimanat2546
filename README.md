@@ -4,7 +4,7 @@
 
 **Full-Stack Developer** passionate about building practical solutions — from warehouse management systems to educational games.
 
-- 🎓 Studying at Faculty of Informatics
+- 🎓 Software Engineering @ Faculty of Informatics, Burapha University (Graduating 2026)
 - 🏆 NSC 2025 Finalist
 - 💼 Internship Experience @ Eastern Software Park, Burapha University
 
