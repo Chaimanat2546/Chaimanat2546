@@ -1,16 +1,58 @@
-## Hi there 👋
+<img src="https://komarev.com/ghpvc/?username=Chaimanat2546&label=Profile%20views&color=0e75b6&style=flat" alt="Chaimanat2546" />
 
-<!--
-**Chaimanat2546/Chaimanat2546** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Chaimanat Aepsuk
 
-Here are some ideas to get you started:
+**Full-Stack Developer** passionate about building practical solutions — from warehouse management systems to educational games.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Studying at Faculty of Informatics
+- 🏆 NSC 2025 Finalist
+- 💼 Internship Experience @ Eastern Software Park, Burapha University
+
+---
+
+## 🚀 Featured Projects
+
+### 🌿 Informatics Go Green
+Environmental sustainability initiative using technology to promote eco-friendly practices.
+
+### 🌬️ AirQuest
+Air quality monitoring platform with IQAir API integration, check-in system, photo capture & GPS tracking.
+> 🏆 **Finalist at NSC 2025**
+
+### 📦 WMS IoT by Cluster 2
+Enterprise Warehouse Management System for TTTBrother with multi-warehouse management & IoT integration.
+> 360+ commits | Laravel, Tailwind, MySQL
+
+### 🎮 Magic Steps
+Therapeutic dance pad game helping children practice stepping and movement.
+> Unity, C#
+
+---
+
+## 🛠️ Tech Stack
+
+![Laravel](https://skillicons.dev/icons?i=laravel,php,typescript,javascript,react,tailwind,unity,cs,mysql,docker,git,vite,html,css)
+
+---
+
+## 🏆 Certifications & Achievements
+
+- **🏅 NSC 2025 Finalist** — AirQuest Project
+- **💼 Eastern Software Park Internship** — JobNexis Platform (Laravel, Docker)
+
+---
+
+## 📊 GitHub Stats
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaimanat2546&layout=compact&theme=default)
+
+---
+
+## 📫 Contact
+
+- 📧 Chaymanus2003@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/chaimanat-aepsuk-7b42a63aa)
+
+---
+
+*"Building technology that makes a difference"*
