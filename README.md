@@ -31,7 +31,7 @@ Therapeutic dance pad game helping children practice stepping and movement.
 
 ## 🛠️ Tech Stack
 
-![Laravel](https://skillicons.dev/icons?i=laravel,php,typescript,javascript,react,tailwind,unity,cs,mysql,docker,git,vite,html,css)
+![Laravel](https://skillicons.dev/icons?i=laravel,php,typescript,javascript,react,nextjs,nestjs,tailwind,unity,cs,postgresql,mysql,docker,git,vite,html,css)
 
 ---
 
