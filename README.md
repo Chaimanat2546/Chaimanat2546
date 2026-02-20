@@ -42,12 +42,6 @@ Therapeutic dance pad game helping children practice stepping and movement.
 
 ---
 
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaimanat2546&layout=compact&theme=default)
-
----
-
 ## 📫 Contact
 
 - 📧 Chaymanus2003@gmail.com
